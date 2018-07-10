@@ -2,7 +2,6 @@
 int main()
 {
    int n, rev=0, rem,temp;
-   printf("Enter an integer: ");
    scanf("%d", &n);
 
   temp=n;
